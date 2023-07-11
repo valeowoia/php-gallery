@@ -14,3 +14,7 @@ https://uwu.waw.pl/gallery
 
 ![screenshot](https://uwu.waw.pl/gallery.png)
 
+#Credits
+
+Nerd Fonts - for icons and IBM VGA8 font
+https://www.nerdfonts.com
