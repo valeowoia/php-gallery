@@ -21,13 +21,14 @@
             padding: 40px;
             text-align: center;
         }
-
+        
         .gallery {
             display: flex;
+            justify-content: space-between;
+            margin-top: 50px;
             flex-wrap: wrap;
-            justify-content: center;
-            margin-top: 30px;
         }
+
 
         .gallery img {
             width: 200px;
