@@ -12,5 +12,5 @@ https://uwu.waw.pl/gallery
 
 ## Screenshots
 
-![form](https://uwu.waw.pl/gallery.png)
+![screenshot](https://uwu.waw.pl/gallery.png)
 
